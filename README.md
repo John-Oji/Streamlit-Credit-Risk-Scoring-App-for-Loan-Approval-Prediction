@@ -1,5 +1,5 @@
 # Streamlit-Credit-Risk-Scoring-App-for-Loan-Approval-Prediction
-# Automated Credit Risk Scoring System
+### Automated Credit Risk Scoring System
 
 ## Project Overview
 The **Automated Credit Risk Scoring System** is a Machine Learning-powered web application developed using **Streamlit** to predict loan eligibility based on an applicant’s financial profile.
@@ -92,6 +92,7 @@ If the applicant meets acceptable credit risk conditions.
 ### Rejected
 If the applicant profile falls outside acceptable risk thresholds.
 
+---
 ## Application Preview
 
 Below is the interface of the Automated Credit Risk Scoring System built with Streamlit.
