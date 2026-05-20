@@ -95,10 +95,8 @@ If the applicant profile falls outside acceptable risk thresholds.
 ## Application Preview
 
 Below is the interface of the Automated Credit Risk Scoring System built with Streamlit.
- You can view the Streamlit app in your browser.
 
-  Local URL: http://localhost:8501
-  Network URL: http://10.10.1.26:8501
+
 
 <img width="847" height="876" alt="image" src="https://github.com/user-attachments/assets/049f166f-5598-4a64-94f2-625f5cc8a95c" />
 
