@@ -101,13 +101,7 @@ Below is the interface of the Automated Credit Risk Scoring System built with St
 
 <img width="847" height="876" alt="image" src="https://github.com/user-attachments/assets/049f166f-5598-4a64-94f2-625f5cc8a95c" />
 
+<img width="792" height="858" alt="image" src="https://github.com/user-attachments/assets/63b3d791-a4d8-41ca-b01e-9a5d70919355" />
+
+
 ---
-
-## Project Structure
-
-```bash
-Credit_Risk_Streamlit_App/
-│── app.py
-│── loan_status_predictor.pkl
-│── requirements.txt
-│── README.md
